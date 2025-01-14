@@ -19,7 +19,7 @@ This project predicts fraudulent credit card transactions using machine learning
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/xeno1919/Credit-Card-Fraud-Detection.git
+    git clone https://github.com/xenon1919/Credit-Card-Fraud-Detection.git
     ```
 2. Navigate to the project directory:
     ```bash
